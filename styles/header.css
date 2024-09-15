@@ -9,6 +9,7 @@
 
 .hamburguer-logo{
     gap: 1.5em;
+    margin-left: 0.5em;
 }
 
 .container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer{
@@ -34,7 +35,7 @@
 }
 
 .container__imagem{
-    padding: 0.5em;
+    padding: 0em 0.5em;
 }
 
 .lista__menu{
